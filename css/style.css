@@ -1,0 +1,25 @@
+.quotes h1
+{
+    font-size: 80px;
+    font-family: Impact;
+   
+}
+.quotes p
+{
+    font-size: 35px;
+    color: black;
+}
+.quotes button
+{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+    
+}
+.quotes button:hover
+{
+    background-color: green;
+    border: 2px solid black;
+}
